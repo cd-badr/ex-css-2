@@ -1,0 +1,33 @@
+.yellow {
+    background-color: yellow;
+    height: 200px;
+}
+ .red {
+    background-color: red;
+    width: 25%;
+    padding-top: 35px;
+ }
+ .green {
+    height: 40px;
+    width: 40px;
+    background-color: green;
+ }
+ .rose {
+    background-color: rosybrown;
+    height: 200px;
+    width: 80%;
+}
+.black {
+    color: white;
+    height: 80%;
+    width: 600px;
+    margin: 0 auto;
+    background-color: black
+    ;
+}
+
+.purple {
+    background-color: purple;
+    margin: 50px 800px 50px 50px;
+    padding: 50px;
+}
